@@ -17,7 +17,7 @@
 
 - :school: I am a `Student` at [Faculty of Computer Science and Engineering](https://cse.hcmut.edu.vn/) at [Ho Chi Minh City University of Technology](https://hcmut.edu.vn/).
 
-- :student: I’m currently learning `Computer Science`.
+- :student: I’m currently learning `Computer Science` at Ho Chi Minh University Of Technology.
 
 - :nerd_face: Always `learning new things`.
 
@@ -30,23 +30,20 @@
 ## <picture> <img src="./assets/images/Connect-with-me.gif" width="100px"> </picture> Connect with me
 
 <p align="center">
-	<a href="mailto:vanlam.cs76@gmail.com">
+	<a href="mailto:hongocan792002@gmail.com">
     <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-	<a href="https://github.com/VanLamCS">
+	<a href="https://github.com/hoan7902">
     <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 	<a href="https://wa.me/0988030845">
     <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
-	<a href="https://www.linkedin.com/in/vanlamcs/">
+	<a href="https://github.com/hoan7902">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-	<a href="https://www.facebook.com/LeVanLam7602">
+	<a href="https://www.facebook.com/hoan792002">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-	<a href="https://www.instagram.com/levanlam7602/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -71,18 +68,6 @@
   <a href="https://www.php.net/" target="_blank"> 
      <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white">
    </a>
-  <!-- &emsp;
-  <a href="https://www.r-project.org/" target="_blank"> 
-     <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a> -->
 </p>
 
 ### <picture> <img src = "./assets/images/Front_End.gif" width = 50px> </picture> Frontend Development
