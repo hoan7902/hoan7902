@@ -4,10 +4,6 @@
 </p>
 <br>
 
-<!-- <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=vanlamcs&label=Profile%20views&color=0047AB&style=plastic?" alt="VanLamCS" height=24px, width=160px/> 
-</p> -->
-
 ## <picture><img src = "./assets/images/about_me.gif" width = 50px></picture> About me
 
 <picture> <img align="right" src="./assets/images/Right_Side.gif" width = 250px></picture>
@@ -17,13 +13,12 @@
 
 - :school: I am a `Student` at [Faculty of Computer Science and Engineering](https://cse.hcmut.edu.vn/) at [Ho Chi Minh City University of Technology](https://hcmut.edu.vn/).
 
-- :student: I’m currently learning `Computer Science` at Ho Chi Minh University Of Technology.
+- :student: I’m currently learning `Computer Science`.
 
 - :nerd_face: Always `learning new things`.
 
 - :thinking: I’m currently open for a new `job opportunity`, this is [<!-- MY RESUME -->MY FACEBOOK](https://www.facebook.com/hoan792002).
 
-<!-- - :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website). -->
 <br>
 
 
