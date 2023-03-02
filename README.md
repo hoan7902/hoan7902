@@ -166,25 +166,25 @@
 
 ---
 
-
+<!-- 
 ## <picture> <img src = "./assets/images/Statistics.gif" width = 50px> </picture> Github Stats
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<details><summary><h3> 🔥 Streak Stats</h3></summary> -->
 
 ----
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vanlamcs&theme=tokyonight_duo" alt="VanLamCS" /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vanlamcs&theme=tokyonight_duo" alt="VanLamCS" /></p>
 
 </details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary> -->
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="VanLamCS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VanLamCS&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-  </a>
+  </a> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vanlamcs&langs_count=4&show_icons=true&locale=en&theme=tokyonight" alt="VanLamCS" height="230px"/>
 <br/> -->
 
@@ -193,7 +193,7 @@
   </p>
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<!-- <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ---
 
@@ -216,4 +216,4 @@
 
 <p align = "center">
 	<img src = "./assets/images/grid-snake.svg" alt = "Snake Game"/>
-</p>
+</p> -->
